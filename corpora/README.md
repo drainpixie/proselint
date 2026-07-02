@@ -8,8 +8,6 @@ nearly cleanly over this corpus, which we occasionally verify by hand.
 
 ## Works
 
-Joseph P. Dolan
-
 + [The Theory and Practice of Apolitical
   Literature: Die Kolonne] by [Joseph P. Dolan]
 + [Europe is battling a record-breaking heatwave.
