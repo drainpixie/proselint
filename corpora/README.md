@@ -8,6 +8,10 @@ nearly cleanly over this corpus, which we occasionally verify by hand.
 
 ## Works
 
+Joseph P. Dolan
+
++ [The Theory and Practice of Apolitical
+  Literature: Die Kolonne] by [Joseph P. Dolan]
 + [Europe is battling a record-breaking heatwave.
   What's making it so severe?] by [The Conversation]
 + [Publishing with purpose: Bringing lived experiences into journal
@@ -22,6 +26,7 @@ nearly cleanly over this corpus, which we occasionally verify by hand.
 
 [Publishing with purpose: Bringing lived experiences into journal development]: https://doi.org/10.1371/journal.pmen.0000635
 [Europe is battling a record-breaking heatwave. What's making it so severe?]: https://doi.org/10.64628/AA.kruqpegh3
+[The Theory and Practice of Apolitical Literature: Die Kolonne]:https://newprairiepress.org/sttcl/vol1/iss2/4/
 [Psychology for beginners: Little blue book no. 491]: https://www.gutenberg.org/ebooks/78996
 [Climate and health at a critical juncture]: https://doi.org/10.1371/journal.pclm.0000895
 [Politics and the English Language]: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/
@@ -33,6 +38,7 @@ nearly cleanly over this corpus, which we occasionally verify by hand.
 [Hereward Carrington]: https://en.wikipedia.org/wiki/Hereward_Carrington
 [The Conversation]: https://theconversation.com
 [Lytton Strachey]: https://en.wikipedia.org/wiki/Lytton_Strachey
+[Joseph P. Dolan]: https://newprairiepress.org/do/search/?q=author%3A%22Joseph%20P.%20Dolan%22&start=0&context=4521219
 [Dorothy Parker]: https://en.wikipedia.org/wiki/Dorothy_Parker
 [George Orwell]: https://en.wikipedia.org/wiki/George_Orwell
 [Franz Kafka]: https://en.wikipedia.org/wiki/Franz_Kafka
@@ -42,11 +48,13 @@ nearly cleanly over this corpus, which we occasionally verify by hand.
 ## Licenses
 
 + [Kafka Online Guidelines]
++ [New Prairie Press Policies]
 + [PLOS Licenses and Copyright]
 + [The Project Gutenberg License]
 + [The Conversation Republishing Guidelines]
 
 [Kafka Online Guidelines]: https://www.kafka-online.info/disclaimer.htm
+[New Prairie Press Policies]: https://newprairiepress.org/sttcl/policies.html#oa
 [PLOS Licenses and Copyright]: https://journals.plos.org/plosone/s/licenses-and-copyright
 [The Project Gutenberg License]: https://www.gutenberg.org/policy/license.html
 [The Conversation Republishing Guidelines]: https://theconversation.com/europe/republishing-guidelines
