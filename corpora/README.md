@@ -8,12 +8,12 @@ nearly cleanly over this corpus, which we occasionally verify by hand.
 
 ## Works
 
-+ [The Theory and Practice of Apolitical
-  Literature: Die Kolonne] by [Joseph P. Dolan]
 + [Europe is battling a record-breaking heatwave.
   What's making it so severe?] by [The Conversation]
 + [Publishing with purpose: Bringing lived experiences into journal
   development] by [PLOS]
++ [The Theory and Practice of Apolitical
+  Literature: Die Kolonne] by [Joseph P. Dolan]
 + [Psychology for beginners: Little blue book no. 491] by [Hereward Carrington]
 + [Climate and health at a critical juncture] by [PLOS]
 + [Politics and the English Language] by [George Orwell]
